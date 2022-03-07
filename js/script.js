@@ -80,5 +80,5 @@ let PlayerMove = getMoveName(playerInput);
 
 printMessage('Twój ruch to: ' + PlayerMove);
 
-displayResult(argComputerMove, argPlayerMove)
+
 
